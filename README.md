@@ -197,3 +197,13 @@
    4. Set up Paypal button
    5. Add Pay api to order router
    6. Get Paypal sandbox account
+
+
+20. Order Track Page
+   1. Generate Component
+       1. Add to routes
+   2. Add Api
+       1. Add to urls.ts
+   3. Add methood  to order.service
+   4. Add Html
+   5. Add Css
